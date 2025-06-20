@@ -65,6 +65,7 @@ windows/
 macos/
 linux/
 web/
+ios/
 
 .claude
 CLAUDE.md
